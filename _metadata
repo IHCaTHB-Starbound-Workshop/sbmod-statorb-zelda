@@ -1,0 +1,12 @@
+{
+  "author" : "isaac as THE HONEY BADGER",
+  "description" : "^#5aa9d6;Changes recovery orbs to look and sound like hearts and mana pots from the Legend of Zelda series.^reset;
+Stat Orbs mod required.
+
+For more, click the MEGATHREAD link from the steam page.",
+  "friendlyName" : "Recovery Hearts and Magic Potions",
+  "includes" : ["STATORB.IHC"],
+  "name" : "STATORBZELDA.IHC",
+  "requires" : ["STATORB.IHC"],
+  "version" : "0.1"
+}
